@@ -1,0 +1,19 @@
+
+
+  
+  .bt{
+    border-radius: 0.3rem;
+    
+    color: #44B;
+    font-size: 1.6rem;
+    outline-width: 0;
+    cursor: pointer;
+    position: absolute;
+    margin: 1rem;
+  
+  }
+  .nv{
+    display: inline-block;
+    border: 0.1rem solid #333;
+    padding: 3rem;
+  }
